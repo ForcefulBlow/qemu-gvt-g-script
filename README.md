@@ -8,3 +8,5 @@ I still don't understand why virtualbox, gnome boxes or libvirt don't have fuck 
 There is a catch tho. This shit isnt exactly stable and im not responsible for any accidental data damage:D
 
 Cheers
+
+P.S. It might not work on your distribution/machine, but I use opensuse tumbleweed, and i will keep updating this script if it would get broken
